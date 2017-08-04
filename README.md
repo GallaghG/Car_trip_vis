@@ -32,7 +32,7 @@ Project to plot OBD2 car scanner data in interactive visualization of data and l
       - Based on style found here: https://snazzymaps.com/
     - Add the GPS point locations from the trip using individual Lat/Lon pairs from the data
     - Add a callback to link to the performance statistics graphs made above  
-  d. Display  
+3. Display  
 
 
 ## Note:  
