@@ -236,5 +236,5 @@ tabs = Tabs(tabs=tab_plots)
 layout = gridplot(children=[[tabs], [gmap]], merge_tools=True, toolbar_location='left', sizing_mode='scale_width') #, sizing_mode='scale_width', plot_height=300
 #layout = gridplot(children=[[tabs]], merge_tools=True, toolbar_location='left', sizing_mode='scale_width')
 
-output_file('car_stats.html')
+output_file('car_trip_vis.html')
 show(layout)
